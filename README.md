@@ -1,1 +1,1 @@
-"# kaggle-santander" 
+Kaggle competition - Santander Customer Transaction Prediction
